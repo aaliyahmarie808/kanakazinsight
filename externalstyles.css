@@ -3,13 +3,18 @@
 img		{border-color: transparent;}
 
 h1{color: white;}
+h2{color: white;text-align: center;}
+h3{color: white;text-align: center;}
+h4{color: white;text-align: center;}
+h5{color: white;text-align: center;}
 
 table	{width: 65%;
+		background-color: rgba(199, 199, 199, 0.487);
 		margin-left: auto; 
 		margin-right: auto;
-		border-color: #545859;
+		border-color: #ffffff;
 		border-style: ridge;
-		border-width: 10px;}
+		border-width: 5px;}
 		
 	
 	.menu	{text-align: center;
